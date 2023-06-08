@@ -1,3 +1,11 @@
+/*
+ File: main.java
+ Description: Final project main file. Creates the mountain data and prints it.
+ Created: 6/7/2023
+ Author: Andre Sadighi
+ Email: andres4991@student.vvc.edu
+*/
+
 import java.util.ArrayList; 
 
 class Main {

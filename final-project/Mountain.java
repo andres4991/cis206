@@ -1,3 +1,11 @@
+/*
+ File: Mountain.java
+ Description: Creates the mountain class with set, get, init, toMeters, and print methods.
+ Created: 6/7/2023
+ Author: Andre Sadighi
+ Email: andres4991@student.vvc.edu
+*/
+
 // #1 A class to store Mountain details. With getter and setter methods.
 // With a member function toMeters that returns the converted value.
 public class Mountain {
